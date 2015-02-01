@@ -1,1 +1,2 @@
-Once upon a time, an angry zebra romed the jungle.
+Once upon a time, an angry zebra roamed the jungle. This wasn't just
+any zebra, though, his name was Lion.
